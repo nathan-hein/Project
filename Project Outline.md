@@ -1,7 +1,7 @@
 
-Name: Nathan Hein
-Semester: Spring 2019
-Project Area: Agronomy
+Name: Nathan Hein <br /> 
+Semester: Spring 2019 <br /> 
+Project Area: Agronomy 
 
 Title: Organizing and Displaying Calculated Results from a HOBO Sensor
 
