@@ -16,5 +16,5 @@ During our heat stress experiments we use HOBO loggers to log the temperature an
 
 Sketch:
 
-![](https://raw.githubusercontent.com/nathan-hein/Project/Misc_Files/Project%20Figure.jpg)
+![](https://raw.githubusercontent.com/nathan-hein/Project/master/Misc_Files/ProjectFigure.jpg)
 
